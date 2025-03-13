@@ -1,0 +1,12 @@
+Adaugare
+    - Introduceti datele filmului;
+    - Apasati butonul de adaugare.
+
+Stergere
+    - Selectati filmul pe care doriti sa il stergeti;
+    - Apasati butonul de stergere
+
+Modificare
+    - Selectati filmul pe care doriti sa il modificati
+    - Introduceti datele noi
+    - Apasati butonul de modificare

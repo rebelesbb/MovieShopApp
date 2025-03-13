@@ -1,0 +1,21 @@
+Titanic|Comedie|2000|Brad Pitt
+The Shawshank Redemption|Horror|1995|Meryl Streep
+The Godfather|Actiune|1987|Denzel Washington
+The Dark Knight|Romance|1990|Robert Downey Jr.
+Pulp Fiction|Comedie|2005|Charlize Theron
+Schindler's List|Horror|1975|Will Smith
+Inception|Actiune|2020|Natalie Portman
+The Matrix|Drama|2000|Johnny Depp
+Jurassic Park|Romance|1965|Julia Roberts
+Avatar|Comedie|1990|Matt Damon
+The Lord of the Rings: The Return of the King|Horror|2015|Cate Blanchett
+Braveheart|Actiune|2000|George Clooney
+The Silence of the Lambs|Drama|1980|Angelina Jolie
+Gladiator|Romance|1995|Tom Cruise
+The Avengers|Comedie|2000|Viola Davis
+The Lion King|Horror|1965|Ryan Gosling
+The Harry Potter series|Actiune|2020|Anne Hathaway
+The Social Network|Drama|1970|Samuel L. Jackson
+Interstellar|Romance|2010|Sandra Bullock
+Forrest Gump|Actiune|2010|Nicole Kidman
+The Harry Potter series|Actiune|2015|Anne Hathaway

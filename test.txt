@@ -1,0 +1,5 @@
+Titanic|Comedie|2000|Brad Pitt
+The Shawshank Redemption|Horror|1995|Meryl Streep
+The Godfather|Actiune|1987|Denzel Washington
+Forrest Gump|Drama|2010|Nicole Kidman
+The Dark Knight|Romance|1990|Robert Downey Jr.

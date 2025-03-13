@@ -1,0 +1,51 @@
+QWidget {
+	background-color: #F0E1A5;
+}
+
+QListView {
+	background-color: #EDE7D4;
+	border: 1px solid gray;
+	border-radius: 7px;
+	color: black;
+	
+}
+
+QListWidget::Item:hover {
+	background-color: white;
+}
+
+QListWidget::Item:selected {
+	background-color: white;
+	color: black;
+}
+
+QLabel{
+	color: black;
+}
+
+QLineEdit{
+	color: black;
+	background-color: white;
+}
+
+QPushButton{
+	background-color: white;
+	color: black;
+}
+
+QSpinBox{
+	background-color: white;
+	color: black;
+}
+
+QComboBox{
+	background-color: white;
+	color: black;
+}
+
+QMenuBar{
+	border: 1px solid black;
+	border-radius: 10px;
+	background-color: #63433E;
+	color:white;
+}
